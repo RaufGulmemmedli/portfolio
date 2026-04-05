@@ -65,7 +65,35 @@ export function PortfolioView() {
         </section>
 
         {/* About */}
-      
+        <section id="about" className="scroll-mt-24 px-4 py-20 sm:px-6 sm:py-28">
+          <div className="mx-auto max-w-6xl">
+            <SectionTitle eyebrow="01" title="Haqqımda" />
+            <div className="grid gap-10 lg:grid-cols-[minmax(0,1fr)_340px] lg:gap-16">
+              <div className="space-y-6 text-base leading-relaxed text-muted-foreground sm:text-lg">
+                {site.about
+                  .split("\n")
+                  .map((para) => para.trim())
+                  .filter(Boolean)
+                  .map((para, i) => (
+                    <p key={i}>{para}</p>
+                  ))}
+              </div>
+              <div className="flex flex-col gap-4 rounded-2xl border border-border/50 bg-card/40 p-6 backdrop-blur">
+                <div className="flex items-start gap-3">
+                  <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-[var(--brand)]" />
+                  <div>
+                    <p className="text-sm font-semibold text-foreground">Lokasiya</p>
+                    <p className="text-sm text-muted-foreground">{site.location}</p>
+                  </div>
+                </div>
+                <div className="h-px bg-border/60" />
+                <p className="text-sm text-muted-foreground">
+                  Ətraflı CV və ya əlavə məlumat üçün əlaqə bölməsindən yaza bilərsiniz.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
 
         {/* Experience */}
         <section id="experience" className="scroll-mt-24 border-y border-border/40 bg-muted/10 px-4 py-20 sm:px-6 sm:py-28">

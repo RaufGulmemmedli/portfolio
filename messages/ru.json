@@ -1,0 +1,61 @@
+{
+  "auth": {
+    "login": "Войти",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "emailRequired": "Электронная почта обязательна",
+    "passwordRequired": "Пароль обязателен",
+    "invalidEmail": "Пожалуйста, введите корректный email",
+    "loginButton": "Войти",
+    "loginSuccess": "Успешный вход!"
+  },
+  "nav": {
+    "dashboard": "Панель управления",
+    "customers": "Клиенты",
+    "blogs": "Блоги",
+    "settings": "Настройки",
+    "assignUser": "Назначить пользователя",
+    "logout": "Выйти",
+    "profile": "Профиль",
+    "security": "Безопасность",
+    "notifications": "Уведомления"
+  },
+  "dashboard": {
+    "title": "Панель управления",
+    "totalUsers": "Всего пользователей",
+    "totalBlogs": "Всего блогов",
+    "revenue": "Доход",
+    "growth": "Рост"
+  },
+  "customers": {
+    "title": "Клиенты",
+    "addCustomer": "Добавить клиента",
+    "editCustomer": "Редактировать клиента",
+    "deleteCustomer": "Удалить клиента",
+    "name": "Имя",
+    "email": "Электронная почта",
+    "status": "Статус",
+    "actions": "Действия"
+  },
+  "blogs": {
+    "title": "Блоги",
+    "addBlog": "Добавить блог",
+    "editBlog": "Редактировать блог",
+    "deleteBlog": "Удалить блог",
+    "readMore": "Читать далее"
+  },
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "add": "Добавить",
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "previous": "Предыдущий",
+    "next": "Следующий",
+    "loading": "Загрузка...",
+    "noData": "Нет данных",
+    "actions": "Действия"
+  }
+}

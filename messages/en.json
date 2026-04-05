@@ -1,0 +1,61 @@
+{
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "invalidEmail": "Please enter a valid email",
+    "loginButton": "Sign In",
+    "loginSuccess": "Login successful!"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "customers": "Customers",
+    "blogs": "Blogs",
+    "settings": "Settings",
+    "assignUser": "Assign User",
+    "logout": "Logout",
+    "profile": "Profile",
+    "security": "Security",
+    "notifications": "Notifications"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalUsers": "Total Users",
+    "totalBlogs": "Total Blogs",
+    "revenue": "Revenue",
+    "growth": "Growth"
+  },
+  "customers": {
+    "title": "Customers",
+    "addCustomer": "Add Customer",
+    "editCustomer": "Edit Customer",
+    "deleteCustomer": "Delete Customer",
+    "name": "Name",
+    "email": "Email",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "blogs": {
+    "title": "Blogs",
+    "addBlog": "Add Blog",
+    "editBlog": "Edit Blog",
+    "deleteBlog": "Delete Blog",
+    "readMore": "Read More"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "previous": "Previous",
+    "next": "Next",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "actions": "Actions"
+  }
+}

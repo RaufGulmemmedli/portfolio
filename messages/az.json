@@ -1,0 +1,61 @@
+{
+  "auth": {
+    "login": "Daxil ol",
+    "email": "E-poçt",
+    "password": "Şifrə",
+    "emailRequired": "E-poçt vacibdir",
+    "passwordRequired": "Şifrə vacibdir",
+    "invalidEmail": "Zəhmət olmasa düzgün e-poçt daxil edin",
+    "loginButton": "Daxil ol",
+    "loginSuccess": "Uğurla daxil oldunuz!"
+  },
+  "nav": {
+    "dashboard": "İdarə paneli",
+    "customers": "Müştərilər",
+    "blogs": "Bloqlar",
+    "settings": "Ayarlar",
+    "assignUser": "İstifadəçi təyin et",
+    "logout": "Çıxış",
+    "profile": "Profil",
+    "security": "Təhlükəsizlik",
+    "notifications": "Bildirişlər"
+  },
+  "dashboard": {
+    "title": "Xoş gəldin!",
+    "totalUsers": "İstifadəçilərin sayı",
+    "totalBlogs": "Bloqların sayı",
+    "revenue": "Gəlir",
+    "growth": "Artım"
+  },
+  "customers": {
+    "title": "Müştərilər",
+    "addCustomer": "Müştəri əlavə et",
+    "editCustomer": "Müştərini redaktə et",
+    "deleteCustomer": "Müştərini sil",
+    "name": "Ad",
+    "email": "E-poçt",
+    "status": "Status",
+    "actions": "Əməliyyatlar"
+  },
+  "blogs": {
+    "title": "Bloqlar",
+    "addBlog": "Bloq əlavə et",
+    "editBlog": "Bloqu redaktə et",
+    "deleteBlog": "Bloqu sil",
+    "readMore": "Daha ətraflı"
+  },
+  "common": {
+    "save": "Yadda saxla",
+    "cancel": "Ləğv et",
+    "delete": "Sil",
+    "edit": "Redaktə et",
+    "add": "Əlavə et",
+    "search": "Axtar",
+    "filter": "Filtr",
+    "previous": "Əvvəlki",
+    "next": "Növbəti",
+    "loading": "Yüklənir...",
+    "noData": "Məlumat yoxdur",
+    "actions": "Əməliyyatlar"
+  }
+}
